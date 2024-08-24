@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-IMplementação da estrutura arvore binária.
+Implementação da estrutura arvore binária.
 
 ## Recursos
 
