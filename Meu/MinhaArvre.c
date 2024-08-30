@@ -144,7 +144,7 @@ void menu() {
     do {
       printf("\nMenu:\n1. Inserir elemento\n2. Buscar elemento\n3. Excluir elemento\n4. Imprimir árvore (in-order)\n5. Imprimir árvore formatada\n6. Sair\nEscolha uma opção: ");
       //tinha feito um print pra cada opção, mas lembrei de um professor que criticou quem faz isso       
-      scanf("%d", &optin);
+      scanf("%d", &option);
 
       switch (option) {
             case 1:
