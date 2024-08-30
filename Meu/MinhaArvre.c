@@ -184,7 +184,7 @@ void menu() {
                 printf("Opção inválida! Tente novamente.\n");
                 break;
         }
-    } while (choice != 6);
+    } while (option != 6);
 }
 
 int main() {
